@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-javascript-tmdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luissolisdamian/api-rest-javascript-tmdb.git"
+  },
+  "author": "luissolisdamian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luissolisdamian/api-rest-javascript-tmdb/issues"
+  },
+  "homepage": "https://github.com/luissolisdamian/api-rest-javascript-tmdb#readme"
+}
